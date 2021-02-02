@@ -1,0 +1,5 @@
+/* Survey feedback form styling to alter Vuetify componenets have to be in non-scoped css imported to app.js*/
+.feedback-flex .v-textarea textarea {
+  margin-top: 0 !important;
+  font-weight: 100;
+}
